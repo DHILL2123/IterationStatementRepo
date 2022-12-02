@@ -1,0 +1,15 @@
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/bin/Debug/net7.0/IterationStatementRepo
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/bin/Debug/net7.0/IterationStatementRepo.deps.json
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/bin/Debug/net7.0/IterationStatementRepo.runtimeconfig.json
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/bin/Debug/net7.0/IterationStatementRepo.dll
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/bin/Debug/net7.0/IterationStatementRepo.pdb
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.csproj.AssemblyReference.cache
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.AssemblyInfoInputs.cache
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.AssemblyInfo.cs
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.csproj.CoreCompileInputs.cache
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.dll
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/refint/IterationStatementRepo.dll
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.pdb
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/IterationStatementRepo.genruntimeconfig.cache
+/Users/deadrienhill/repos/IterationStatementRepo/IterationStatementRepo/obj/Debug/net7.0/ref/IterationStatementRepo.dll
